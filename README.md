@@ -1,4 +1,4 @@
-# Data-Structure-ADT
+# Data Structure ADTs Using Java
 
 This repo includes the practice of some basic ADTs using Java. 
 
